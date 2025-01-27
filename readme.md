@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-blue">
   <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
-  <img src="https://img.shields.io/galaxytoolshed/26/01/2025/:repository/:owner">
+  <img src="https://img.shields.io/galaxytoolshed/created-date/:repository/:owner">
 </p>
 
 
