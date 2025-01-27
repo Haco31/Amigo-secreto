@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-blue">
   <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
-  <img src="https://img.shields.io/github/contributors/usuario/repositorio")
+  <img src="https://img.shields.io/github/contributors/Haco31/Amigo-secreto">
 ">
 </p>
 
