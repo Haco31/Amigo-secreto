@@ -1,4 +1,5 @@
-![Logo para el readme del AMSE](https://github.com/user-attachments/assets/45b60eb6-6379-4b9f-89cb-96ca1e1bd9a9)
+
+![Logo del Juego](https://github.com/user-attachments/assets/b0c87d21-8437-4a9f-bd58-4a58e1de495e)
 
 
 <h1 align="center"> "Juego del amigo secreto"</h1>
