@@ -1,5 +1,6 @@
 
-![Logo del Juego](https://github.com/user-attachments/assets/b0c87d21-8437-4a9f-bd58-4a58e1de495e)
+![cambio de logo](https://github.com/user-attachments/assets/653dcaf2-d267-4199-9ef1-9869dd977a92)
+
 
 
 <h1 align="center"> "Juego del amigo secreto"</h1>
