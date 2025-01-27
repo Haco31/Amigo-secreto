@@ -9,6 +9,6 @@
 </p>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://img.shields.io/github/stars/camilafernanda?style=social">
+   <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
 </p>   
 
