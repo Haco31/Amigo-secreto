@@ -1,6 +1,7 @@
-<p align="center">
-![Logo cambio3](https://github.com/user-attachments/assets/c493449c-b72b-4da1-9ccc-b9b5da9c0a89)
-</p>
+<div align="center">
+ <img src="
+https://github.com/Haco31/Amigo-secreto/blob/df63cd8925c6442774780d33067d5462567abc6e/Imagenes-del-proyecto/Rimberio__2_-removebg-preview.png" alt="Amigo-Secreto">
+</div>
 
 <h1 align="center">"Juego del amigo secreto"</h1>
 
