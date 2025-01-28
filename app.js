@@ -40,10 +40,19 @@ function sortearAmigo() {
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
     const amigoSorteado = amigos[indiceAleatorio];
 
+    //Se elimina el nombre sorteado de la caja de amigos
+    amigos.splice(indiceAleatorio, 1); 
+
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `<li>${amigoSorteado}</li>`;
+
+    actualizarListaAmigos();
 }
-
-
+//función para reiniciar el juego sin tener que actualizar la pag.
+function reiniciarJuego() {
+    amigos = [];
+    actualizarListaAmigos();
+    document.getElementById('resultado').innerHTML = '';
+}
 
 
