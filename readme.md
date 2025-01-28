@@ -22,3 +22,50 @@
 </p>
 
 
+## Descripción
+
+**Introducción al Juego del Amigo Secreto**
+¡Bienvenido al Juego del Amigo Secreto! 🎁
+En este divertido proyecto desarrollado en JavaScript, hemos creado, entre la plantilla de Alura y un código desarrollado por mi, una herramienta interactiva para organizar y jugar al clásico Amigo Secreto, ideal para grupos de amigos, familiares o compañeros de trabajo.
+
+**Este juego es perfecto para:**
+
+- Automatizar los sorteos: Evita confusiones al asignar los regalos.
+- Guardar secretos: Cada participante recibe su asignación de manera privada.
+- Aportar diversión y sorpresas: Haz que todos disfruten de la experiencia.
+  
+**¿Cómo funciona?**
+
+- Registro de participantes: Cada jugador ingresa su nombre.
+- Sorteo automático: El sistema asigna de manera aleatoria y justa un Amigo Secreto para cada persona.
+- Notificación: Se muestra quién es el Amigo Secreto asignado para cada jugador.
+  
+**Características principales:**
+
+- Código limpio y optimizado en JavaScript.
+- 100% aleatorio.
+- Posibilidad de personalizar mensajes y agregar reglas (como evitar asignaciones entre ciertas personas).
+  
+**¡Empieza ahora!**
+Simplemente inicialo, ingresa los participantes, y deja que el sistema haga la magia. 🎩✨
+
+## Estado del proyecto
+:construction: Proyecto en construcción :construction:
+
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Se inicia declarando una variable de tipo array, que almacenará los nombres de los amigos ingresados.
+- `Funcionalidad 2`: se implementa una función, que permita al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
+- `Funcionalidad 3`: Se crea una función que recorra el array amigos y se agrega cada nombre como un elemento `<li>` dentro de una lista HTML. Usa innerHTML para limpiar la lista antes                       de agregar nuevos elementos.
+- `Funcionalidad 4`: Se agrega una función que seleccione de manera aleatoria uno de los nombres almacenados en el array amigos. Se usa `Math.random()` y `Math.floor()` para obtener un                       índice aleatorio.
+
+## Contribuyentes 🙌
+
+
+[![@TuNombre](https://avatars.githubusercontent.com/Haco31?v=4&s=50)](https://github.com/Haco31)
+
+
+
+
+
+
